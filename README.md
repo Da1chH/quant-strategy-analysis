@@ -86,23 +86,8 @@ backtrader (可选)
 seaborn (可选)
 
 
-安装命令：
-```bash
-pip install pandas numpy matplotlib akshare backtrader seaborn
-🔍 核心洞察
-没有完美的策略，只有适合特定市场环境的策略
-均值回归在震荡市有效，趋势策略在单边市有效。识别市场状态是关键。
 
-胜率不重要，盈亏比和仓位管理才重要
-14%的胜率照样能赚钱，因为赚的时候拿得久、亏的时候跑得快。
-
-简单策略往往比复杂组合更有效
-动态组合策略跑输单一均值回归，说明市场状态判断的难度远超预期。
-
-茅台这类“价值锚”资产天然适合均值回归
-因为有基本面支撑，跌多了有人买，涨多了有人卖，形成天然的震荡区间。
-
-🚀 下一步计划
+## 🚀 下一步计划
 增加止损机制（如-15%强制平仓）
 
 结合估值指标（PE分位数）过滤信号
@@ -111,16 +96,4 @@ pip install pandas numpy matplotlib akshare backtrader seaborn
 
 实盘模拟验证（聚宽/米筐平台）
 
-📚 参考资料
-《量化交易：如何建立自己的算法交易事业》- Ernest Chan
 
-《Python金融大数据分析与量化交易》
-
-akshare文档：https://www.akshare.xyz/
-
-📬 联系我
-如有问题或建议，欢迎交流：
-
-GitHub：Da1chH
-
-如果对你有帮助，欢迎⭐️ Star 支持！
